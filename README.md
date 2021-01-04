@@ -1,9 +1,7 @@
 # snake-v1.0
-My very first 2d game
-
 Hi all.
 
-As i said, this is my first 2d game. This is also my first github share.
+This is my very first 2d game. This is also my first github share.
 
 Here is a Snake. Snake is a classic game of 2000's, from nokia 3310 phone. Game that i think, is perfect for a first 2d game.
 
