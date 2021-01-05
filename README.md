@@ -19,3 +19,5 @@ Finaly, this code can sometimes bug. I don't know why but maybe 1 times on 25, t
 I hope the younger of us will like this game :)
 
 Supra.
+
+![Screenshot from 2021-01-04 12-38-09](https://user-images.githubusercontent.com/70440132/103595272-5123f180-4efb-11eb-9332-e088f6c2dbad.png)
